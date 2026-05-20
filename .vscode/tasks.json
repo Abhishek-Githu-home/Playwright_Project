@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "test -Event",
+			"problemMatcher": [],
+			"label": "npm: test -Event",
+			"detail": "npx playwright test tests/Test10_EventBooking.spec.js --headed",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}

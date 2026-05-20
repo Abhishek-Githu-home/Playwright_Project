@@ -1,0 +1,19 @@
+{
+  "name": "playwright_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-Event": "npx playwright test tests/Test10_EventBooking.spec.js --headed",
+    "test-WebAPI" : "npx playwright test tests/Test11_WebAPI.spec.js --headed",
+    "testAll" : "npx playwright test tests/*"
+
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.5"
+  }
+}
