@@ -1,0 +1,3 @@
+Command To execute with customised config file : npx playwright test tests/Test10_POMEventBooking.spec.js --config playwright.config_01.js
+Command To execute with customised project from config file : npx playwright test tests/Test10_POMEventBooking.spec.js --config playwright.config_01.js --project=safari
+script to help all the tests runs at a time (Paste in starting of test('verification')) : test.describe.configure({mode : 'parallel'})

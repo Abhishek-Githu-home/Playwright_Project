@@ -3,7 +3,7 @@
 const { test, expect, request } = require('@playwright/test')
 const { LOADIPHLPAPI } = require('node:dns')
 const loginpayload = { userEmail: "6orwy@gmail.com", userPassword: "Test@12pass" }
-const {APIUtils} = require('./Utils/APIutils')
+const {APIUtils} = require('../Utils/APIutils')
 
 test.describe('Order id verification', () => {
 
