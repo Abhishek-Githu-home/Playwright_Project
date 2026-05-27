@@ -25,7 +25,7 @@ class POM1_LoginPage {
     async LoginScreenshot() {
         
         await this.page.waitForLoadState('domcontentloaded')
-        await this.page.screenshot({path : "loginscreen.png"})
+        await this.page.screenshot({path : "../TestEvidences/loginscreen.png"})
     }
 }
 module.exports = { POM1_LoginPage }

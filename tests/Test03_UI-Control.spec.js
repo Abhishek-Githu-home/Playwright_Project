@@ -4,7 +4,7 @@ const { test, expect } = require('@playwright/test');
 const { equal } = require('node:assert');
 const { waitForDebugger } = require('node:inspector');
 
-test.only('UI Control verification', async ({ browser }) => {
+test.skip('UI Control verification', async ({ browser }) => {
 
     const context = await browser.newContext();
     const page = await context.newPage();

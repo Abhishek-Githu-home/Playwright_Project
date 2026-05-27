@@ -10,12 +10,12 @@ test('Verification of UI screens - visual testing', async ({ browser }) => {
     const page = await Context.newPage()
 
     await page.goto('https://www.google.com/webhp');
-    expect(await page.screenshot()).toMatchSnapshot('google.png');
+    expect(await page.screenshot()).toMatchSnapshot('../TestEvidences/google.png');
 })
 
 test('parallel run verification', async () => {
     await page.goto('https://dayspedia.com/time/online/');
     //await page.waitForTimeout(5000)
-    expect(await page.screenshot()).toMatchSnapshot('clock.png')
+    expect(await page.screenshot()).toMatchSnapshot('../TestEvidences/clock.png')
 })
 

@@ -1,6 +1,6 @@
 const { test, expect} = require('@playwright/test')
 
-test.describe('Verification of E2E order placing functionality', async() => {
+test.describe(' @E2E Verification of E2E order placing functionality', async() => {
 
     test('Verification of login scenario for Flipkart website', async({browser}) => {
     const context = await browser.newContext()

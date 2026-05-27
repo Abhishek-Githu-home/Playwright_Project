@@ -40,7 +40,7 @@ test('Positive flow for E2E eCommerce order placing', async ({browser}) => {
 
     
     await page.getByRole('link', {name:"shop"}).click()
-    await page.screenshot({path : 'shoppage.png'})
+    await page.screenshot({path : '../TestEvidences/shoppage.png'})
     await page.waitForURL("https://rahulshettyacademy.com/angularpractice/shop")
 
     await page.locator('app-card').filter( {hasText: "Blackberry"} ).getByRole('button', {name:"Add "}).click()
@@ -50,11 +50,11 @@ test('Positive flow for E2E eCommerce order placing', async ({browser}) => {
 
     const SamsungNote = page.getByRole('heading', { name: 'Samsung Note' })
     await SamsungNote.isVisible()
-    await SamsungNote.screenshot({path : 'SamsungNote.png'})
+    await SamsungNote.screenshot({path : '../TestEvidences/SamsungNote.png'})
 
     const Blackberry = page.getByRole('heading', { name: 'Blackberry' })
     await Blackberry.isVisible()
-    await Blackberry.screenshot({path : 'blackberry.png'})
+    await Blackberry.screenshot({path : '../TestEvidences/blackberry.png'})
     await page.getByText('Checkout').click()
     await page.locator('#country').pressSequentially('India')
     await page.getByText('India', {exact : true}).click()

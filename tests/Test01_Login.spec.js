@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
 
-test('First playwright test', async ({ browser }) => { //async - helps to wait
+test('@E2E First playwright test', async ({ browser }) => { //async - helps to wait
     //This will launch the new browser instance
 
     const context = await browser.newContext();

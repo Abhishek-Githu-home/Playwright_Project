@@ -11,7 +11,7 @@ const { POM5_EventDeletion } = require('../Pageobjects/POM5_EventDeletion.js')
 const TestData = require('../Utils/Test10_TestData');
 
 // This is for TestDataParamisation > Test10_TestData.js
-test('Login to Event register application', async ({ browser }) => {
+test('@E2E Login to Event register application - TestData', async ({ browser }) => {
 
     const Context = await browser.newContext()
     const page = await Context.newPage()
@@ -45,7 +45,7 @@ test('Login to Event register application', async ({ browser }) => {
 
 
 //This is for the use of fixture > Fixture-TestData.js
-/*customtest.only('Login to Event register application', async ({browser, testdataforLogin }) => {
+customtest('Login to Event register application - DataFixture', async ({browser, testdataforLogin }) => {
 
     const Context = await browser.newContext()
     const page = await Context.newPage()
@@ -58,4 +58,4 @@ test('Login to Event register application', async ({ browser }) => {
     await loginpage.VisitURL(testdataforLogin.BaseURL)
     await loginpage.LoginCredential(testdataforLogin.Email, testdataforLogin.password)
     await loginpage.LoginScreenshot()
-})*/
+})

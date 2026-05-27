@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test-Event": "npx playwright test tests/Test10_POMEventBooking.spec.js --headed",
-    "test-WebAPI": "npx playwright test tests/Test11_WebAPI.spec.js --headed",
-    "testAll": "npx playwright test tests/*"
+    "POMTest": "npx playwright test tests/Test10_POMEventBooking.spec.js --headed",
+    "API": "npx playwright test tests/Test11_WebAPI.spec.js --headed",
+    "Regression": "npx playwright test tests --reporter=line,allure-playwright",
+    "E2E": "npx playwright test --grep 'E2E'",
+    "cucumber" : "npx cucumber-js features"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +16,12 @@
   "devDependencies": {
     "@playwright/test": "^1.60.0",
     "@types/node": "^25.3.5",
-    "exceljs": "^4.4.0"
+    "allure-commandline": "^2.41.0",
+    "allure-playwright": "^3.9.0",
+    "exceljs": "^3.4.0",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^12.9.0"
   }
 }

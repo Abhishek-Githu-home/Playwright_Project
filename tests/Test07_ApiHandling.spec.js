@@ -28,7 +28,7 @@ test.beforeAll(async() => {
 })
 
 test.describe.configure({mode : 'parallel'})
-test('Verify the API testing', async ({page}) => {
+test('Verify the API testing - 01', async ({page}) => {
 
     console.log("The login token is : " , token)
 
