@@ -1,0 +1,4 @@
+Let's Shop
+The OrderID is :  6a1959f317ee3e78baa6fe15
+locator('tbody').filter({ hasText: '6a1959f317ee3e78baa6fe15' })
+The OrderID :  6a1959f317ee3e78baa6fe15 is available in  order history

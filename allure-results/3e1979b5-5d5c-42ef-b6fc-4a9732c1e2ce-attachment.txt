@@ -1,0 +1,103 @@
+The Created order details :  {
+  orders: [ '6a1959e317ee3e78baa6fd72' ],
+  productOrderId: [ '6960eae1c941646b7a8b3ed3' ],
+  message: 'Order Placed Successfully'
+}
+6a1959e317ee3e78baa6fd72
+The available order details are:  {
+  data: [
+    {
+      _id: '6a1959e317ee3e78baa6fd72',
+      orderById: '69d98eedf86ba51a655a4a2e',
+      orderBy: '6orwy@gmail.com',
+      productOrderedId: 'Fri May 29',
+      productName: 'ADIDAS ORIGINAL',
+      country: 'India',
+      productDescription: 'Apple phone',
+      productImage: 'https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg',
+      orderDate: null,
+      orderPrice: '11500',
+      __v: 0
+    },
+    {
+      _id: '6a19594c17ee3e78baa6fb5b',
+      orderById: '69d98eedf86ba51a655a4a2e',
+      orderBy: '6orwy@gmail.com',
+      productOrderedId: 'Fri May 29',
+      productName: 'ADIDAS ORIGINAL',
+      country: 'India',
+      productDescription: 'Apple phone',
+      productImage: 'https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg',
+      orderDate: null,
+      orderPrice: '11500',
+      __v: 0
+    },
+    {
+      _id: '6a1956ae17ee3e78baa6f3bd',
+      orderById: '69d98eedf86ba51a655a4a2e',
+      orderBy: '6orwy@gmail.com',
+      productOrderedId: 'Fri May 29',
+      productName: 'ADIDAS ORIGINAL',
+      country: 'India',
+      productDescription: 'Apple phone',
+      productImage: 'https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg',
+      orderDate: null,
+      orderPrice: '11500',
+      __v: 0
+    },
+    {
+      _id: '6a1955e717ee3e78baa6f218',
+      orderById: '69d98eedf86ba51a655a4a2e',
+      orderBy: '6orwy@gmail.com',
+      productOrderedId: 'Fri May 29',
+      productName: 'ADIDAS ORIGINAL',
+      country: 'India',
+      productDescription: 'Apple phone',
+      productImage: 'https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg',
+      orderDate: null,
+      orderPrice: '11500',
+      __v: 0
+    },
+    {
+      _id: '6a194ebd17ee3e78baa6ddd2',
+      orderById: '69d98eedf86ba51a655a4a2e',
+      orderBy: '6orwy@gmail.com',
+      productOrderedId: 'Fri May 29',
+      productName: 'ADIDAS ORIGINAL',
+      country: 'India',
+      productDescription: 'Apple phone',
+      productImage: 'https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg',
+      orderDate: null,
+      orderPrice: '11500',
+      __v: 0
+    },
+    {
+      _id: '6a193b9b17ee3e78baa69f10',
+      orderById: '69d98eedf86ba51a655a4a2e',
+      orderBy: '6orwy@gmail.com',
+      productOrderedId: 'Fri May 29',
+      productName: 'ADIDAS ORIGINAL',
+      country: 'India',
+      productDescription: 'Apple phone',
+      productImage: 'https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg',
+      orderDate: null,
+      orderPrice: '11500',
+      __v: 0
+    },
+    {
+      _id: '6a1937db17ee3e78baa689ef',
+      orderById: '69d98eedf86ba51a655a4a2e',
+      orderBy: '6orwy@gmail.com',
+      productOrderedId: 'Fri May 29',
+      productName: 'ADIDAS ORIGINAL',
+      country: 'India',
+      productDescription: 'Apple phone',
+      productImage: 'https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg',
+      orderDate: null,
+      orderPrice: '11500',
+      __v: 0
+    }
+  ],
+  count: 7,
+  message: 'Orders fetched for customer Successfully'
+}

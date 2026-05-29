@@ -1,0 +1,6 @@
+The page URL is :  https://eventhub.rahulshettyacademy.com/login
+The total available events are :  0
+The EVENT URL is :  https://eventhub.rahulshettyacademy.com/events
+The created Event is :  Event - 1780046294260
+The initial seat count is :  undefined And  locator('.text-emerald-600').last()
+The currently showing the event of :  Event - 1780046294260

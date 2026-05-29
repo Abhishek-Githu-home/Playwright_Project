@@ -8,8 +8,9 @@
     "API": "npx playwright test tests/Test11_WebAPI.spec.js --headed",
     "Regression": "npx playwright test tests --reporter=line,allure-playwright",
     "E2E": "npx playwright test --grep 'E2E'",
-    "cucumber" : "npx cucumber-js features"
-  },
+    "cucumber" : "npx cucumber-js features --exit --format html:cucumber-format.html",
+    "Test-regression": "npx cucumber-js --tags '@Regression' --exit --format html:cucumber-format.html"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",

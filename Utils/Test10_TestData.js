@@ -13,4 +13,6 @@ module.exports = {
     "customerName": 'Virat Kohli',
     "customerEmail": 'Virat2027@gmail.com',
     "customerNumber": '+91 9383103103',
+    "userid" : "rahulshettyacademy",
+    "passcode" : "Learning@830$3mK2" 
 }

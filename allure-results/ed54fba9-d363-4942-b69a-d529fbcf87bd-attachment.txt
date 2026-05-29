@@ -1,0 +1,51 @@
+https://rahulshettyacademy.com/angularpractice/
+[Function: url] 200
+https://rahulshettyacademy.com/angularpractice/styles.3476315b83ee14da2595.bundle.css
+https://rahulshettyacademy.com/angularpractice/inline.318b50c57b4eba3d437b.bundle.js
+https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js
+https://rahulshettyacademy.com/angularpractice/scripts.6cc4e781f0791d60b349.bundle.js
+https://rahulshettyacademy.com/angularpractice/main.f104fca0d24a938832a3.bundle.js
+[Function: url] 200
+[Function: url] 200
+[Function: url] 200
+[Function: url] 200
+[Function: url] 200
+https://rahulshettyacademy.com/angularpractice/assets/img/hotballon.jpeg
+[Function: url] 200
+ProtoCommerce
+true
+
+                    ×
+                    Success! The Form has been submitted successfully!.
+                  
+https://rahulshettyacademy.com/angularpractice/shop
+[Function: url] 200
+https://rahulshettyacademy.com/angularpractice/styles.3476315b83ee14da2595.bundle.css
+[Function: url] 200
+https://rahulshettyacademy.com/angularpractice/inline.318b50c57b4eba3d437b.bundle.js
+[Function: url] 200
+https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js
+[Function: url] 200
+https://rahulshettyacademy.com/angularpractice/scripts.6cc4e781f0791d60b349.bundle.js
+[Function: url] 200
+https://rahulshettyacademy.com/angularpractice/main.f104fca0d24a938832a3.bundle.js
+[Function: url] 200
+https://placehold.co/900x350
+https://rahulshettyacademy.com/angularpractice/assets/img/iphonex.jpg
+https://rahulshettyacademy.com/angularpractice/assets/img/samsung.jpg
+https://rahulshettyacademy.com/angularpractice/assets/img/nokia.jpg
+https://rahulshettyacademy.com/angularpractice/assets/img/blackberry.jpg
+https://rahulshettyacademy.com/angularpractice/Material-Design-Iconic-Font.a4d31128b633bc0b1cc1.woff2?v=2.2.0
+[Function: url] 200
+[Function: url] 200
+[Function: url] 200
+[Function: url] 200
+[Function: url] 200
+[Function: url] 200
+https://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css
+[Function: url] 200
+[Function: url] 200
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/fonts/fontawesome-webfont.woff?v=4.2.0
+locator('.alert-success')
+[Function: url] 200

@@ -2,3 +2,19 @@ Command To execute with customised config file : npx playwright test tests/Test1
 Command To execute with customised project from config file : npx playwright test tests/Test10_POMEventBooking.spec.js --config playwright.config_01.js --project=safari
 script to help all the tests runs at a time (Paste in starting of test('verification')) : test.describe.configure({mode : 'parallel'})
 running with TAG name(to be assigned as @smoke in description of test('')) :  npx playwright test --grep '@smoke'
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Allure Report generation:
+To install : npm install -g allure-commandline
+To run : npx playwright test --grep '@E2E' --reporter=line,allure-playwright
+To generate : npx allure generate .\allure-results --clean
+To open : allure open ./allure-report 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cucumber :
+To execute the code : npx cucumber-js
+To execute the tagged scenario : npx cucumber-js --tags "@SmokeTesting" --exit
+2 scenarios running parallelly at a time with a different browser : npx cucumber-js features/Ecommerce.feature --parallel 2 --exit
+To generate the HTML report : npx cucumber-js --tags "@SmokeTesting" --exit --format html:cucumber-format.html
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Jenkins:
+Setup and installation: https://www.jenkins.io/download/
+To run and open : java -jar jenkins.war --httpPort=9090

@@ -1,4 +1,5 @@
 const { test, expect } = require('@playwright/test');
+const { userid, passcode } = require('../Utils/Test10_TestData');
 
 test('@E2E First playwright test', async ({ browser }) => { //async - helps to wait
     //This will launch the new browser instance
@@ -14,8 +15,8 @@ test('@E2E First playwright test', async ({ browser }) => { //async - helps to w
     console.log(await page.title())
     // supports css(predominantly) and xpath selectors
 
-    await username.fill("rahulshettyacad") //type is being depricated, use fill to enter
-    await password.fill('Learning@830$3mK2')
+    await username.fill(userid + "user") //type is being depricated, use fill to enter
+    await password.fill(passcode)
     await Sign_in.click()
 
     console.log(await page.locator('[style*="block"]').textContent())
@@ -36,8 +37,8 @@ test('Second Page testcase', async ({ page }) => { //test.only helps to run only
     console.log(await page.title())
     await expect(page).toHaveTitle("LoginPage Practise | Rahul Shetty Academy");
 
-    await username.fill("rahulshettyacademy") //type is being depricated, use fill to enter
-    await password.fill('Learning@830$3mK2')
+    await username.fill(userid) //type is being depricated, use fill to enter
+    await password.fill(passcode)
     await Sign_in.click()
 
     console.log(await Header.nth(0).textContent()) // nth(0) and first() is same

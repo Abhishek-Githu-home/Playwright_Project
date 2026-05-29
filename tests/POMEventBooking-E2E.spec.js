@@ -8,7 +8,7 @@ const { POM2_EventCreation } = require('../Pageobjects/POM2_EventCreation.js')
 const { POM3_EventBooking } = require('../Pageobjects/POM3_EventBooking.js')
 const { POM4_EventDetails } = require('../Pageobjects/POM4_EventDetails.js')
 const { POM5_EventDeletion } = require('../Pageobjects/POM5_EventDeletion.js')
-const TestData = require('../Utils/Test10_TestData');
+const TestData = require('../Utils/Test10_TestData.js');
 
 // This is for TestDataParamisation > Test10_TestData.js
 test('@E2E Login to Event register application - TestData', async ({ browser }) => {

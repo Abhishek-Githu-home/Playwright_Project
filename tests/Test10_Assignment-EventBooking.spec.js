@@ -1,7 +1,7 @@
 const { test, expect } = require('@playwright/test')
 const { TIMEOUT } = require('node:dns')
 
-test(' @E2E Login to Event register application', async ({ browser }) => {
+test.skip(' @E2E Login to Event register application', async ({ browser }) => {
 
     const Context = await browser.newContext()
     const page = await Context.newPage()

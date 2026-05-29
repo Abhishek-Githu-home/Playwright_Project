@@ -1,0 +1,28 @@
+false
+true
+DOCUMENTS REQUESTAnd Please email us at mentor@rahulshettyacademy.com with below template to receive response
+[ 'rahulshettyacademy', 'com with below template to receive response' ]
+rahulshettyacademy
+rahulshettyacademy
+
+    
+    
+	    
+	        iphone X
+	    
+	    $24.99
+	    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+    
+    
+    	Add 
+      	★ ★ ★ ★ ☆
+    
+  
+iphone X
+8
+The count is : 4
+iphone X
+Optional application issue skipped. Reason: locator.click: Timeout 1000ms exceeded.
+Call log:
+  - waiting for getByText('India', { exact: true })
+

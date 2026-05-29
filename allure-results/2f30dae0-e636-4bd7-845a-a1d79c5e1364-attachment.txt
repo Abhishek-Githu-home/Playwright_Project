@@ -1,0 +1,52 @@
+https://rahulshettyacademy.com/client/
+https://rahulshettyacademy.com/client/ 200
+https://rahulshettyacademy.com/client/runtime.508c334766cdc1126fc8.js
+https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js
+https://rahulshettyacademy.com/client/scripts.f335373444f21b6a8037.js
+https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js
+https://rahulshettyacademy.com/client/styles.61bb682a09597970d7b9.css
+https://rahulshettyacademy.com/client/runtime.508c334766cdc1126fc8.js 200
+https://rahulshettyacademy.com/client/polyfills.d5e2c55785e9a2a0b452.js 200
+https://rahulshettyacademy.com/client/styles.61bb682a09597970d7b9.css 200
+https://rahulshettyacademy.com/client/scripts.f335373444f21b6a8037.js 200
+https://rahulshettyacademy.com/client/main.7ee8fbe1f749815c4714.js 200
+https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js
+https://rahulshettyacademy.com/client/193.d265881eae00ddd5b310.js
+https://rahulshettyacademy.com/client/193.d265881eae00ddd5b310.js 200
+https://rahulshettyacademy.com/client/342.9e55d8a34323d7dafdac.js 200
+https://i.ibb.co/q7PTcrL/bg.webp
+https://rahulshettyacademy.com/client/fontawesome-webfont.20fd1704ea223900efa9.woff2?v=4.7.0
+https://rahulshettyacademy.com/client/fontawesome-webfont.20fd1704ea223900efa9.woff2?v=4.7.0 200
+https://i.ibb.co/q7PTcrL/bg.webp 200
+https://rahulshettyacademy.com/api/ecom/auth/login
+https://rahulshettyacademy.com/api/ecom/auth/login 200
+https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js
+https://rahulshettyacademy.com/client/135.4782aab7a591d79cf5e5.js 200
+https://rahulshettyacademy.com/api/ecom/product/get-all-products
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e 200
+https://rahulshettyacademy.com/api/ecom/product/get-all-products 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959232316.jpeg
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959158182.jpg
+https://rahulshettyacademy.com/api/ecom/order/get-orders-for-customer/69d98eedf86ba51a655a4a2e
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e 200
+https://rahulshettyacademy.com/api/ecom/order/get-orders-for-customer/69d98eedf86ba51a655a4a2e 200
+https://rahulshettyacademy.com/api/ecom/uploads/productImage_1767959265156.jpg
+https://rahulshettyacademy.com/api/ecom/order/get-orders-details?id=6a1959e317ee3e78baa6fd72
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e 200
+https://rahulshettyacademy.com/api/ecom/user/get-cart-count/69d98eedf86ba51a655a4a2e 200
+https://rahulshettyacademy.com/api/ecom/order/get-orders-details?id=6a073bcf965c23b43b1cbf69 400
