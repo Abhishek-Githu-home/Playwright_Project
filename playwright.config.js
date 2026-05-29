@@ -29,7 +29,7 @@ export default defineConfig({
   use: {
 
     browserName : 'chromium',
-    headless : false,
+    headless : true,
     screenshot : 'on',
     //trace: 'on', //trace generate on every testcase
     tarce: 'retain-on-failure' //trace generate on failed case

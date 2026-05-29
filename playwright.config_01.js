@@ -14,7 +14,7 @@ module.exports = defineConfig({
       name: 'Chrome Execution',
       use: {
         browserName: 'chromium',
-        headless: false,
+        headless: true,
         screenshot: 'on',
         video : 'on',
         trace: 'retain-on-failure',
@@ -27,7 +27,7 @@ module.exports = defineConfig({
       name: 'webkit Execution',
       use: {
         browserName: 'webkit',
-        headless: false,
+        headless: true,
         screenshot: 'only-on-failure',
         trace: 'on',
         viewport: { width: 500, height: 500 }, // Overrides the emulator's default viewport
